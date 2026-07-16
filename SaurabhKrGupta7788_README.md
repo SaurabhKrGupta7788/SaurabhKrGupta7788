@@ -225,8 +225,3 @@ Proven track record through **IIT & international research residencies**, **nati
 *Feel free to fork, star, and contribute!*
 
 ---
-
-**Note for you (the owner):**  
-Replace the LinkedIn link placeholder with your actual LinkedIn URL.  
-Add project demo links or GIFs in the project sections to make it even more impressive.  
-Upload this `README.md` to a repo named exactly `SaurabhKrGupta7788` to make it your GitHub profile README.
