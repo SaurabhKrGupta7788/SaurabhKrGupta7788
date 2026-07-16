@@ -1,7 +1,7 @@
 # Hi, I'm Saurabh Kumar Gupta
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=700&height=60&lines=ML+Researcher+%7C+AI+%26+Deep+Learning+CV;Mathematics+%26+Computing+%40+NIT+Mizoram;National+Hackathon+Winner+%7C+Research+Intern+%40+KIT+Germany" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=700&height=60&lines=ML+Researcher+%7C+AI+%26+Deep+Learning+%7CCV;Mathematics+%26+Computing+%40+NIT+Mizoram;National+Hackathon+Winner+%7C+Research+Intern+%40+KIT+Germany" alt="Typing SVG" />
 </div>
 
 <p align="center">
