@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Saurabh Kumar Gupta
+# Hi, I'm Saurabh Kumar Gupta
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=700&height=60&lines=ML+Researcher+%7C+AI+%26+Deep+Learning+Enthusiast;Mathematics+%26+Computing+%40+NIT+Mizoram;National+Hackathon+Winner+%7C+Research+Intern+%40+KIT+Germany" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=700&height=60&lines=ML+Researcher+%7C+AI+%26+Deep+Learning+CV;Mathematics+%26+Computing+%40+NIT+Mizoram;National+Hackathon+Winner+%7C+Research+Intern+%40+KIT+Germany" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <strong>🚀 Aspiring Machine Learning Researcher | B.Tech Mathematics & Computing (Minor: AI/ML) | NIT Mizoram</strong><br>
+  <strong> Aspiring Machine Learning Researcher | B.Tech Mathematics & Computing (Minor: AI/ML) | NIT Mizoram</strong><br>
   <strong>CGPA: 8.85/10</strong>
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 **Aspiring Machine Learning researcher** with strong foundations in mathematics, statistical learning, and deep learning. 
 
@@ -31,7 +31,7 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaurabhKrGupta7788&show_icons=true&theme=radical&hide=contribs&count_private=true" alt="GitHub Stats" height="180"/>
@@ -85,7 +85,7 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
 <tr>
@@ -104,7 +104,7 @@ Proven track record through **IIT & international research residencies**, **nati
 </td>
 <td width="50%" valign="top">
 
-### 🚗 All-Weather Advanced ANPR System
+###  All-Weather Advanced ANPR System
 **National Winner — Varthli Hackathon 2026**
 
 - 92% accuracy across rain, fog, night conditions
@@ -120,7 +120,7 @@ Proven track record through **IIT & international research residencies**, **nati
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Plant Disease Prediction System
+###  Plant Disease Prediction System
 
 - CNN-based classification on 50,000+ images (94% accuracy)
 - 38 disease classes using PlantVillage
@@ -132,7 +132,7 @@ Proven track record through **IIT & international research residencies**, **nati
 </td>
 <td width="50%" valign="top">
 
-### 🪐 Cosmic Gateway
+###  Cosmic Gateway
 **NASA Space Apps Challenge 2025**
 
 - Interactive exoplanet classification web app
@@ -158,7 +158,7 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 💼 Research & Experience
+##  Research & Experience
 
 | Role | Institution | Period | Highlights |
 |------|-------------|--------|------------|
@@ -168,11 +168,11 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 <div align="center">
 
-| 🏅 Achievement | Event | Year |
+|  Achievement | Event | Year |
 |----------------|-------|------|
 | **National Winner** | Yuvamanthan Hackathon | 2024 |
 | **National Winner** | Varthli Hackathon | 2026 |
@@ -189,7 +189,7 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 👨‍💼 Leadership & Responsibilities
+##  Leadership & Responsibilities
 
 - **President** — Arthkriti (Business & Finance Club), NIT Mizoram (2025–Present)
 - **Senior Cadet** — National Cadet Corps (NCC) (2023–Present)
@@ -199,7 +199,7 @@ Proven track record through **IIT & international research residencies**, **nati
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:100rab777888@gmail.com"><img src="https://img.shields.io/badge/Email_Me-100rab777888@gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
