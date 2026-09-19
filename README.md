@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Saurabh%20Kumar%20Gupta&fontSize=70&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Researcher&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Saurabh%20Kumar%20Gupta&fontSize=70&fontAlignY=35&desc=AI%20and%20Machine%20Learning%20Researcher&descAlignY=55&descAlign=50" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Multiple+Instance+Learning+Expert;Scientific+Machine+Learning;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
